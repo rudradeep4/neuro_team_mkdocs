@@ -1,0 +1,44 @@
+site_name: Neuro Group @ FEMTO-ST
+
+theme:
+  name: material
+  icon:
+    logo: fontawesome/solid/brain
+  features:
+  - navigation.tabs
+  - navigation.tabs.sticky
+  - navigation.sections
+  palette: 
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: black
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+markdown_extensions: 
+  - attr_list
+  - md_in_html
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+
+nav:
+- About: about.md
+- Publications: publications.md
+- People: people.md
+- Resources: resources.md
+- (CREAM): cream.md
+- Café Neuro: cafe_neuro.md
+
+extra_css:
+  - stylesheets/extra.css
