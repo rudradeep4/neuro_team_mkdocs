@@ -1,4 +1,7 @@
-<!-- <img style='float:left;position: relative; margin-right: 10px; ' height='200' src='/images/post/cafe_neuro/Caffè_Neuro.jpg'>  -->
+---
+title: 'Café Neuro'
+---
+
 ![img](images/post/cafe_neuro/Caffè_Neuro.jpg){: style="float:left;position:relative;margin-right:10px;height=200"}
 As of Nov. 2023, every Wednesday morning (10am-11am CET), we get together (mix of virtual and in-person) for coffee, cake and a short talk. 
 

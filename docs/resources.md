@@ -2,7 +2,7 @@
 
 Every Wednesday 10am-11am CET, we get together (mix of virtual and in-person) for coffee, cake and a short talk. On a rotating basis, each member of the lab gives a small project update: what they've been working on in the past 1-2 months, what their current data and results are, what pending question they may have. 
 
-[List of upcoming topics](2022-01-25-Upcoming_cafe_neuro.md). 
+[List of upcoming topics](cafe_neuro.md). 
 
 <hr>
 
